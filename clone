@@ -1,1 +1,8 @@
-Explain what clone does, in your own words
+git clone an existing github repo is same as:
+
+mkdir existing_repo
+cd existing_repo
+git init
+git remote add origin https://github.com/some_github_user/existing_repo
+git pull
+cd ..
