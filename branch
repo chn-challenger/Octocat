@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a snapshot copy of your project at a given point in time, which you can work off, add and commit changes to, without making changes to master branch.  Having the option of discarding the experimentations in this branch or merge them back to master branch or use this branch to completely overwrite the master branch.
