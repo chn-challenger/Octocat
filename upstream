@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote is usually used for pushing locally stored git repo commits upto some remotely connected repo
